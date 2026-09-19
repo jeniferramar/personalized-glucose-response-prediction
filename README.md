@@ -100,3 +100,11 @@ An interactive Power BI storyboard was developed to communicate:
 - Predictive model comparison
 - Feature importance
 - Matched-meal case study
+
+- ## Project Files
+
+- [Data Cleaning Notebook](01_data_cleaning.ipynb)
+- [Analysis & Machine Learning Notebook](02_analysis_machine_learning.ipynb)
+- [SQL Analysis](analysis.sql)
+- [Power BI Storyboard](Personalized_Glucose_Storyboard.pdf)
+- [Full Analysis Summary](Personalized_Glucose_Summary.pdf)
